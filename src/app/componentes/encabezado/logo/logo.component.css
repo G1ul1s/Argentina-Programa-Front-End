@@ -1,0 +1,60 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}   
+
+div {
+    background-color: #c4b3bd;
+}
+
+#logoAP {
+    width: 400px;
+    align-items: left;
+}
+
+#boton {
+    align-items: right;
+    border-width: medium;
+}
+
+.social {
+    margin-right: 0.5em;
+    
+}
+
+.social img {
+    width: 30px;
+}
+
+
+@media (max-width: 575px){
+.container {
+    flex-direction: column;
+}
+
+div {
+    background-color: #c4b3bd;
+}
+
+#logoAP {
+    width: 500px;
+    align-items: left;
+}
+
+#boton {
+    align-items: right;
+    border-width: medium;
+}
+
+.social {
+display: flex;
+flex-direction: column;;
+align-items: center;
+}
+
+.social img {
+ margin: 0.2em;
+}
+}
