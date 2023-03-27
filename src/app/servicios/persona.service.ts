@@ -9,7 +9,7 @@ import { persona } from '../model/persona.model';
 })
 export class PersonaService {
 
-  URL = 'http://localhost:8080/persona/';
+  URL = 'https://argentina-programa-back-end-springboot.onrender.com/persona/';
   
   //URL = environment.URL + 'persona/';
   constructor(private httpClient: HttpClient) { }
