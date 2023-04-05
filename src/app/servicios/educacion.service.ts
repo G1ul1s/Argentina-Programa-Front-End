@@ -7,7 +7,7 @@ import { Educacion } from '../model/educacion';
   providedIn: 'root'
 })
 export class EducacionService {
-  educURL="http://localhost:8080/educacion/"
+  educURL="https://argentina-programa-back-end-springboot.onrender.com/educacion/"
   constructor(private httpClient: HttpClient) { }
 
   public lista(): Observable<Educacion[]>{ 

@@ -7,7 +7,7 @@ import { HyS } from '../model/hys';
   providedIn: 'root'
 })
 export class HysService {
-  hysURL="http://localhost:8080/hys/"
+  hysURL="https://argentina-programa-back-end-springboot.onrender.com/hys/"
   constructor(private httpClient: HttpClient) { }
 
   public lista(): Observable<HyS[]>{ 

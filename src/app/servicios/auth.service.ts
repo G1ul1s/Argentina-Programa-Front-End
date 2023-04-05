@@ -10,7 +10,7 @@ import { JwtDto } from '../model/jwt-dto';
   providedIn: 'root'
 })
 export class AuthService {
-  authURL = "http://localhost:8080/auth/"
+  authURL = "https://argentina-programa-back-end-springboot.onrender.com/auth/"
 
  // URL = environment.URL + 'authlogin/';
 
