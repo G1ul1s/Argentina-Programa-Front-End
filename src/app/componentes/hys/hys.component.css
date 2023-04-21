@@ -1,0 +1,37 @@
+
+div#hys h1 {
+    text-align: center;
+ }
+
+ .container-fluid{
+   background-color: #85bdeb;
+   padding: 20px;
+}
+
+.row{
+   justify-content: center;
+   align-items: center;
+   padding: 20px;
+}
+
+
+#button {
+   justify-content: center;
+   align-items: center;
+   
+ }
+
+ div#img {
+ margin: 10px 50px;
+ }
+
+ label{
+   display: inline-block;
+   width: 80px;
+ }
+
+ table td {
+   
+    padding-left: 40px;
+    padding-right: 40px;
+ }
