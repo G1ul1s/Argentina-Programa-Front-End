@@ -1,0 +1,40 @@
+.container-fluid{
+   background: #6a11cb;
+
+   background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+   background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+   padding: 20px;
+}
+
+.row{
+   justify-content: center;
+   align-items: center;
+   padding: 20px;
+}
+
+
+div#educacion h1 {
+    text-align: center;
+ }
+
+#button {
+   justify-content: center;
+   align-items: center;
+   
+ }
+ label{
+   display: inline-block;
+   width: 220px;
+   font-size: large;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: aliceblue;
+ }
+h5 {
+   color: rgb(237, 247, 152);
+
+}  
+
+h1 {
+font-size:xxx-large;
+}

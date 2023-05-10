@@ -1,0 +1,8 @@
+{
+   "/iniciar-sesión": {
+        "target" : "https://argentina-programa-back-end-springboot.onrender.com",
+        "secure" : true,
+        "changeOrigin" : true,
+        "logLevel" : "debug"    
+    }
+}

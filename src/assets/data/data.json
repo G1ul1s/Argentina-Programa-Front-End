@@ -1,0 +1,79 @@
+{
+    "name" : " Giuli Cervi",
+    "backImagen" : "https://photos.app.goo.gl/Pfb2ArppHy7gxqFT9",
+    "imagen" : "assets/img/pic03",
+    "position" : "Música, comunicación, educación, tecnología",
+    "company" : "Conservatorio Superior de Musica Manuel de Falla",
+    "college" : "Universidad de Buenos Aires",
+    "location": "Buenos Aires, (Argentina)",
+    "title1": "Acerca de",
+    "about": "Música, comunicación, educación, tecnología",
+    "title2": "Experiencia",
+    "email": "giulianacervi@gmail.com",
+    "password": "giuliportfolio",
+    "listExperiencia": [{
+        "position" : "Asistente de Gerencia",
+        "company" : "Angoli/Quatro Srl",
+        "img" : ".",
+        "cliente":"",
+        "aplicaciones" : "Excel, Acces, Plataformas de facturación (Hollistor)",
+        "consultas" : "",
+        "reporte":"",
+        "Metodologia": "",
+        "funciones" : "Asistencia a la gerencia"
+    },
+    {
+        "position" : "Docente de Musica",
+        "company" : "Miguel Hernández",
+        "img" : "",
+        "cliente": "",
+        "aplicaciones" : "",
+        "consultas" : "",
+        "reporte":"",
+        "Metodologia": "",
+        "funciones" : ""
+    }],
+    "listEducacion":[{
+        "college": "Universidad de Buenos Aires",
+        "title": "Licenciatura en Comunicación Social con Orientación en Procesos Educativos",
+        "img":"https://drive.google.com/file/d/1EIRwjuxGkNoIF__9SZDyqmuBhwWwAzyg/view?usp=share_link",
+        "description": "25/36",
+        "certificate":"En curso"
+    }],
+    "listCertificaciones":[{
+        "school": "Argentina Programa",
+        "img":"assets/img/APLogo.png",
+        "title":"Programación Básica",
+        "expedition":"June 2022",
+        "certificate": "BUSCAR"
+    },
+    {
+        "school": "Conservatorio Superior de Música Manuel de Falla",
+        "img":"/assets/images/pic03.jpg",
+        "title": "Técnico en Música Orientación Piano",
+        "expedition":"Dec 2013",
+        "certificate": ""
+    },
+    {
+        "school":"Conservatorio Superior de Música Manuel de Falla",
+        "img":"/assets/images/pic03.jpg",
+        "title":"Técnico Superior en Música Orientación en Tango y Folclore",
+        "expedition":"En curso",
+        "certificate": ""
+    },
+    {
+        "school": "University of Cambridge",
+        "img":"assets/img/cambridge.jpg",
+        "title":"Certificate in Advanced English",
+        "expedition":"2006",
+        "certificate": ""
+    },
+    {
+        "school": "University of Cambridge",
+        "img":"assets/img/cambridge.jpg",
+        "title":"First Certificate in English",
+        "expedition":"2005",
+        "certificate": ""
+    }]
+
+}

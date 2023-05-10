@@ -1,0 +1,32 @@
+.gradient-custom {
+    height: 100vh;
+     background: #6a11cb;
+
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+}
+
+.row{
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+ }
+ .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    } 
+p {
+       color: rgb(237, 247, 152);
+       font-style: italic;
+}  
+label {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+  
+h1 {
+    font-size:xxx-large;
+}
